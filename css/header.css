@@ -41,7 +41,7 @@
     color: var(--laranja);
     font-weight: 700;
 }
-.link__meu_link{
+.link__menu_link{
     background: var(--degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
